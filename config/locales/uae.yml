@@ -1,0 +1,9 @@
+uae:
+  number:
+    currency:
+      format:
+        unit: 'AED'
+        delimiter: ','
+        separator: '.'
+        precision: 2
+        format: '%u%n'
